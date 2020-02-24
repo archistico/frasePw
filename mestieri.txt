@@ -1,0 +1,57 @@
+Agricoltore, Albergatore, Allenatore, Allevatore, Analista, Anestesista, Animatore, Archeologo, Architetto, Armatore, Arredatore, Arrotino, Artigiano, Artista, astronauta, Attore, Autista, aviatore, Avvocato
+Mestieri con la B
+
+Bagnino, Ballerino, bancario, Banchiere, Barbiere, barcaiolo, Barista, Barman, becchino, Benzinaio, Bidello, Biologo, birraio, Boscaiolo, burattinaio
+Mestieri con la C
+
+Cacciatore, Calciatore, Calzolaio, Cameriere, Camionista, Cantante, Carabiniere, cardiologo, Carpentiere, Carrozziere, cartolaio, casalinga, ciabattino, Contadino, Cuoco
+Mestieri con la D
+
+dattilografo, Dentista, dermatologo, Dietologo, Direttore, Dirigente, domatore, Dottore, Droghiere
+Mestieri con la E
+
+ebanista, edicolante, Educatore, Elettrauto, Elettricista, elicotterista, endocrinologo, Enologo, Erborista, esattore, Estetista
+Mestieri con la F
+
+Fabbro, Facchino, Falegname, Farmacista, Fattorino, ferroviere, Filosofo, Finanziere, fioraio, fiorista, Fisioterapista, fornaio, Fotografo, fruttivendolo
+
+Mestieri con la G
+
+Gelataio, Geologo, Geometra, geriatra, Giardiniere, ginecologo, giocatore, giocattolaio, giocoliere, Gioielliere, giornalaio, Giornalista, giostraio, Gommista, gondoliere
+Mestieri con la I
+
+Idraulico, Imbianchino, Impiegato, Imprenditore, Infermiere, Ingegnere, Insegnante, Istruttore
+Mestieri con la L
+
+Lattaio, lattoniere, lavandaia, lavandaio, lavapiatti, lavavetri, lettore, levigatore, Libraio, Liutaio, Logopedista, Lottatore, lucidatore, lustrascarpe
+Mestieri con la M
+
+Macchinista, Macellaio, Maestra, Maestro, Maniscalco, Manovale, Marinaio, marmista, Meccanico, Medico, mercante, Minatore, mugnaio, Muratore, Musicista
+Mestieri con la N
+
+narratore, navigatore, Negoziante, Netturbino, neurologo, nocchiere, nostromo, Notaio, nuotatore, nutrizionista
+Mestieri con la O
+
+Oculista, Odontoiatra, Odontotecnico, Oncologo, Operaio, Orafo, orefice, ornitologo, orologiaio, Ortolano, Ortopedico, oste, ostetrica, Otorino, otorinolaringoiatra, Ottico
+Mestieri con la P
+
+Paleontologo, Panettiere, parrucchiera, Parrucchiere, pasticcere, Pasticciere, pastore, Pescatore, Pescivendolo, piastrellista, Pilota, Pittore, Pizzaiolo, Podologo, Poliziotto, pompiere, portiere, portinaio, Postino
+
+Mestieri con la R
+
+radiologo, Ragioniere, Rappresentante, Regista, Restauratore, Rettore, Reumatologo, ricamatrice, Ricercatore, Rigattiere, Ristoratore, rosticcere, rosticciere, rottamatore
+Mestieri con la S
+
+Saldatore, Salumiere, sarta, Sarto, sassofonista, Scrittore, Scultore, Segretaria, sessuologo, Soldato, Spazzino, Stilista
+Mestieri con la T
+
+tabaccaio, taglialegna,  Tappezziere, Tassista, tatuatore, Tecnico, tessitore, tipografo, Tornitore, tranviere, trattorista, truccatore, tubista
+Mestieri con la U
+
+uccellaio, uditore, Ufficiale, ufologo, urbanista, Urologo, Usciere, usuraio
+Mestieri con la V
+
+Vasaio, velista, Venditore, Verniciatore, Veterinario, Vetraio, vetrinista, Vigile, vinaio, violinista, visagista, viticoltore, vivaista
+Mestieri con la Z
+
+zampognaro, zappatore, zincatore, zoccolaio, Zoologo, Zootecnico
