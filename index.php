@@ -52,6 +52,8 @@ for($c = 0; $c<10; $c++) {
     Html::println($pf->getPassword(6));
 }
 
+sleep(1);
+
 Html::foot();
 ?>
 

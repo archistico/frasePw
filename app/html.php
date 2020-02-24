@@ -58,37 +58,37 @@ EOD;
 
     public static function printH1(String $str)
     {
-        echo "<h1 class='mt-4 bg-primary text-light'>".$str."</h1>";
+        echo "<h1 class='mt-4 bg-primary text-light'>".$str."</h1>\n";
     }
 
     public static function printH2(String $str)
     {
-        echo "<h2>".$str."</h2>";
+        echo "<h2>".$str."</h2>\n";
     }
 
     public static function printH3(String $str)
     {
-        echo "<h3>".$str."</h3>";
+        echo "<h3>".$str."</h3>\n";
     }
 
     public static function printH4(String $str)
     {
-        echo "<h4>".$str."</h4>";
+        echo "<h4>".$str."</h4>\n";
     }
 
     public static function printH5(String $str)
     {
-        echo "<h5>".$str."</h5>";
+        echo "<h5>".$str."</h5>\n";
     }
 
     public static function printH6(String $str)
     {
-        echo "<h6>".$str."</h6>";
+        echo "<h6>".$str."</h6>\n";
     }
 
     public static function println(String $str)
     {
-        echo $str. "</br>";
+        echo $str. "</br>\n";
     }
 
     public static function dump($el)
