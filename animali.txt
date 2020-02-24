@@ -1,0 +1,19 @@
+Agnello, Airone, Alce, alligatore, Allodola, Alpaca, anaconda, Anatra, anatroccolo, anguilla, Antilope, ape, Aquila, aragosta, Armadillo, Asino, Astice
+Babbuino, baco, Balena, Balenottera, Barbagianni, Bertuccia, biscia, Bisonte, boa, Bradipo, Bruco, Bue, Bufalo
+caimano, Camaleonte, Cammello, Canarino, Cane, Canguro, Capra, Castoro, Cavallo, cerbiatto, Cervo, cicala, Cicogna, Cigno, cincillà, Cinghiale, Civetta, cobra, coccinella, coccodrillo, Colibrì, Coniglio, Corvo, Criceto
+Daino, Delfino, dentice, Dingo, dinosauro, Donnola, drago, Dromedario, Dugongo
+Echidna, Elefante, elefante marino, Ermellino
+Facocero, Fagiano, Faina, Falco, falena, farfalla, Fenicottero, Foca, formica, Formichiere, Fringuello, fuco, Furetto
+Gabbiano, Gallina, Gallo, Gatto, gattopardo, Gazzella, geco, Ghepardo, Ghiro, giaguaro, Giraffa, girino, Gnu, Gorilla, granchio, grillo, Gru, Gufo
+Ibis, Iena, iguana, Impala, insetto, Ippocampo, Ippopotamo, Istrice
+Lama, Lemure, Leone, Leopardo, Lepre, Libellula, Licaone, Lince, lombrico, Lontra, luccio, lucciola, lucertola, lumaca, Lupo
+Macaco, Maiale, mammut, Mandrillo, Mangusta, manta, mantide, Marmotta, Martora, medusa, Merlo, micio, Montone, mosca, Moscerino, Mucca, Muflone, mulo, murena
+Nandù, Narvalo, nasello, Nibbio, Nitticora, Nottola, Nutria
+Oca, Opossum, Orango, orangotango, orata, Orca, Orco, Ornitorinco, Orso, ostrica, Otaria
+paguro, Panda, Pantera, Papera, Pappagallo, Passero, Pavone, Pecora, pesce, Picchio, Piccione, Pinguino, Pipistrello, pitone, polipo, Pollo, polpo, porco, Porcospino, Procione, pulce, pulcino, Puma, Puzzola
+Raganella, ragno, ramarro, Rana, ranocchio, Ratto, razza, Renna, Riccio, Rinoceronte, Rondine, rospo
+Salamandra, salmone, sanguisuga, sardina, Scimmia, Scoiattolo, Scorpione, scrofa, seppia, serpe, serpente, sogliola, somaro, sorcio, squalo, Stambecco, Struzzo, suino
+Tacchino, Talpa, Tapiro, tarantola, Tartaruga, Tasso, testuggine, Tigre, tonno, Topo, Toro, Tortora, Tricheco, trota, Tucano, Uccello
+upupa, Usignolo
+vacca, varano, verme, vespa, vipera, visone, Vitello, Volpe, vongola
+zanzara, Zebra, Zebù, zecca, Zibellino, zibetto

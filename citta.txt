@@ -1,0 +1,61 @@
+Città con la A
+
+Adria, Agrigento, Alassio, Alba, Albenga, Alessandria, Alghero, Amalfi, Ancona, Andria, Aosta, Aquila, Arezzo, Arona, Ascoli Piceno, Assisi, Asti, Avellino, Aversa
+Città con la B
+
+Barcellona Pozzo di Gotto, Bari, Barletta, Belluno, Benevento, Bergamo, Biella, Bisceglie, Bitonto, Bologna, Bolzano, Brescia, Brindisi
+Città con la C
+
+Cagliari, Caltanissetta, Campobasso, capri, Caserta, Catania, Catanzaro, Cesena, Chieti, Como, Cosenza, Crema, Cremona, Crotone, Cuneo
+Città con la D
+
+Dalmine, Deruta, Desenzano, Desio, Diamante, Diano Marina, Domodossola
+Città con la E
+
+Eboli, Empoli, Enna, Erba, Erbusco, Ercolano, Erice, Este
+Città con la F
+
+Fabriano, Faenza, Fano, Fermo, Ferrara, Fidenza, Fiesole, Fiorenzuola, Firenze, Foggia, Foligno, Forlì, Forlimpopoli, Formia, Francavilla, Frascati, Frosinone
+
+
+Città con la G
+
+Gaeta, Gallarate, Gallipoli, Gela, Gemona, Genova, Giarre, Ginosa, Giulianova, Gorgonzola, Gorizia, Grosseto, Gubbio
+Città con la I
+
+Iglesias, Imola, Imperia, Ischia, Isernia, Ispica, Itri, Ivrea
+Città con la L
+
+Ladispoli, Lamezia Terme, Lampedusa, Lanciano, La Spezia, Latina, Lecce, Lecco, Lentini, Lerici, Licata, Lipari, Livigno, Livorno, Loano, Lodi, Loreto, Lucca, Lucera, Luino
+Città con la M
+
+Macerata, Manfredonia, Mantova, Marsala, Massa, Massa Carrara, Matera, Merano, Messina, Mestre, Milano, Milazzo, Modena, Modica, Molfetta, Monopoli, Monza
+Città con la N
+
+Napoli, Nardò, Narni, Nettuno, Nicosia, Niscemi, Nizza, Nocera, Noicattaro, Nola, Norcia, Noto, Novara, Novi Ligure, Nuoro
+Città con la O
+
+Oderzo, Olbia, Orbetello, Orgosolo, Oria, Oristano, Orte, Ortisei, Ortona, Orvieto, Osimo, ostia, Ostuni, Otranto
+Città con la P
+
+Padova, Palermo, Paola, Parma, Pavia, Perugia, Pesaro, Pescara, Piacenza, Pisa, Pistoia, Pompei, Pordenone, Potenza, Prato
+
+
+Città con la R
+
+Ragusa, Rapallo, Ravenna, Recanati, Rho, Riccione, Rieti, Rimini, Rivoli, Roma, Rovereto, Rovigo
+Città con la S
+
+Salerno, Sanremo, Saronno, Sassari, Sassuolo, Savona, Siena, Siracusa, Sirmione, Sondrio, Sorrento, Sulmona
+Città con la T
+
+Taormina, Taranto, Teramo, Termoli, Terni, Tivoli, Torino, Tortona, Trani, Trapani, Trento, Treviso, Trieste, Troia
+Città con la U
+
+Udine, Ugento, Umbertide, Urbania, Urbino, Ustica
+Città con la V
+
+Valenza, Varese, Vasto, Velletri, Venezia, Verbania, Vercelli, Verona, Viareggio, Vibo Valentia, Vicenza, Vieste, Vigevano, Viterbo, Voghera, Volterra
+Città con la Z
+
+Zafferana Etnea, Zagarolo, Zapponeta, Zoagli, Zocca, Zollino, Zungoli
