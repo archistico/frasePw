@@ -31,28 +31,43 @@ $categorie->add($cat9);
 $categorie->add($cat10);
 
 $pf = new Passphrase($categorie);
+$intestazione = ["Frase", "Lunghezza"];
 
 Html::printH1("3 parole");
+$parole = [];
 for($c = 0; $c<10; $c++) {
-    Html::println($pf->getPassword(3));
+    $frase = $pf->getPassword(3);
+    $lunghezza = strlen($frase);
+    $parole[] = [$frase, $lunghezza];
 }
+Html::table($intestazione, $parole);
 
 Html::printH1("4 parole");
+$parole = [];
 for($c = 0; $c<10; $c++) {
-    Html::println($pf->getPassword(4));
+    $frase = $pf->getPassword(4);
+    $lunghezza = strlen($frase);
+    $parole[] = [$frase, $lunghezza];
 }
+Html::table($intestazione, $parole);
 
 Html::printH1("5 parole");
+$parole = [];
 for($c = 0; $c<10; $c++) {
-    Html::println($pf->getPassword(5));
+    $frase = $pf->getPassword(5);
+    $lunghezza = strlen($frase);
+    $parole[] = [$frase, $lunghezza];
 }
+Html::table($intestazione, $parole);
 
 Html::printH1("6 parole");
+$parole = [];
 for($c = 0; $c<10; $c++) {
-    Html::println($pf->getPassword(6));
+    $frase = $pf->getPassword(6);
+    $lunghezza = strlen($frase);
+    $parole[] = [$frase, $lunghezza];
 }
-
-sleep(1);
+Html::table($intestazione, $parole);
 
 Html::foot();
 ?>
