@@ -7,16 +7,16 @@ use \App\Passphrase;
 
 Html::head();
 
-$cat1 = new \App\Categoria('txt/aggettivi.txt');
-$cat2 = new \App\Categoria('txt/animali.txt');
-$cat3 = new \App\Categoria('txt/citta.txt');
-$cat4 = new \App\Categoria('txt/locuzioni.txt');
-$cat5 = new \App\Categoria('txt/mestieri.txt');
-$cat6 = new \App\Categoria('txt/nomi.txt');
-$cat7 = new \App\Categoria('txt/piante.txt');
-$cat8 = new \App\Categoria('txt/sostantivi.txt');
-$cat9 = new \App\Categoria('txt/verbi.txt');
-$cat10 = new \App\Categoria('txt/capitali.txt');
+$cat1 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'aggettivi.txt');
+$cat2 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'animali.txt');
+$cat3 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'citta.txt');
+$cat4 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'locuzioni.txt');
+$cat5 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'mestieri.txt');
+$cat6 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'nomi.txt');
+$cat7 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'piante.txt');
+$cat8 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'sostantivi.txt');
+$cat9 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'verbi.txt');
+$cat10 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'capitali.txt');
 
 $categorie = new \App\Categorie();
 $categorie->add($cat1);
