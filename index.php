@@ -25,6 +25,13 @@ $categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'serietv.txt'));
 $pf = new Passphrase($categorie);
 $intestazione = ["Frase", "Lunghezza"];
 
+Html::printH1("CREAZIONE FRASE DI PASSWORD");
+
+Html::println("Totale parole nel database: ".$categorie->numeroTotaleParole());
+Html::verticalSpace(4);
+
+Html::tableSimple($categorie->getFilename(), $categorie->numeroTotaleParoleCategorie());
+
 Html::printH2("3 parole");
 $parole = [];
 for($c = 0; $c<10; $c++) {

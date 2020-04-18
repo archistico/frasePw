@@ -56,6 +56,14 @@ EOD;
         echo $str;
     }
 
+    public static function dumpdie($var)
+    {
+        echo "<pre>\n";
+        var_dump($var);
+        echo "</pre>\n";
+        die();
+    }
+
     public static function printH1(String $str)
     {
         echo "<h1 class='mt-4 bg-primary text-light'>".$str."</h1>\n";
@@ -89,6 +97,12 @@ EOD;
     public static function println(String $str)
     {
         echo $str. "</br>\n";
+    }
+
+    public static function verticalSpace($spacer = 2)
+    {
+        // $spacer 0 - 5
+        echo "<div class='mb-$spacer'></div>\n";
     }
 
     public static function dump($el)
@@ -131,7 +145,7 @@ EOD;
         echo '<tr>';
 
         foreach ($headers as $h) {
-            echo '<th scope="col">'.$h.'</th>';
+            echo '<th scope="col" class="w-75">'.$h.'</th>';
         }
 
         echo '</tr>';
@@ -143,6 +157,22 @@ EOD;
             foreach ($d as $sd) {
                 echo '<td>' . $sd . '</td>';
             }
+            echo '</tr>';
+        }
+
+        echo '</tbody>';
+        echo '</table>';
+    }
+
+    public static function tableSimple(array $colonna1, array $colonna2)
+    {
+        echo '<table class="table table-sm">';
+        echo '<tbody>';
+
+        for ($c=0; $c<count($colonna1); $c++) {
+            echo '<tr>';
+                echo '<td class="w-75">' . $colonna1[$c] . '</td>';
+                echo '<td class="w-25">' . $colonna2[$c] . '</td>';
             echo '</tr>';
         }
 
