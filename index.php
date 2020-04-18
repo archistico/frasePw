@@ -17,6 +17,9 @@ $cat7 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'piante.txt');
 $cat8 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'sostantivi.txt');
 $cat9 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'verbi.txt');
 $cat10 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'capitali.txt');
+$cat11 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'stati.txt');
+$cat12 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'cartoni.txt');
+$cat13 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'film.txt');
 
 $categorie = new \App\Categorie();
 $categorie->add($cat1);
@@ -29,11 +32,14 @@ $categorie->add($cat7);
 $categorie->add($cat8);
 $categorie->add($cat9);
 $categorie->add($cat10);
+$categorie->add($cat11);
+$categorie->add($cat12);
+$categorie->add($cat13);
 
 $pf = new Passphrase($categorie);
 $intestazione = ["Frase", "Lunghezza"];
 
-Html::printH1("3 parole");
+Html::printH2("3 parole");
 $parole = [];
 for($c = 0; $c<10; $c++) {
     $frase = $pf->getPassword(3);
@@ -42,7 +48,7 @@ for($c = 0; $c<10; $c++) {
 }
 Html::table($intestazione, $parole);
 
-Html::printH1("4 parole");
+Html::printH2("4 parole");
 $parole = [];
 for($c = 0; $c<10; $c++) {
     $frase = $pf->getPassword(4);
@@ -51,19 +57,10 @@ for($c = 0; $c<10; $c++) {
 }
 Html::table($intestazione, $parole);
 
-Html::printH1("5 parole");
+Html::printH2("5 parole");
 $parole = [];
 for($c = 0; $c<10; $c++) {
     $frase = $pf->getPassword(5);
-    $lunghezza = strlen($frase);
-    $parole[] = [$frase, $lunghezza];
-}
-Html::table($intestazione, $parole);
-
-Html::printH1("6 parole");
-$parole = [];
-for($c = 0; $c<10; $c++) {
-    $frase = $pf->getPassword(6);
     $lunghezza = strlen($frase);
     $parole[] = [$frase, $lunghezza];
 }
