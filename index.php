@@ -2,39 +2,25 @@
 require 'vendor/autoload.php';
 
 use \App\Html;
-use \App\CategoriaTipo;
 use \App\Passphrase;
 
 Html::head();
 
-$cat1 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'aggettivi.txt');
-$cat2 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'animali.txt');
-$cat3 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'citta.txt');
-$cat4 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'locuzioni.txt');
-$cat5 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'mestieri.txt');
-$cat6 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'nomi.txt');
-$cat7 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'piante.txt');
-$cat8 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'sostantivi.txt');
-$cat9 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'verbi.txt');
-$cat10 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'capitali.txt');
-$cat11 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'stati.txt');
-$cat12 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'cartoni.txt');
-$cat13 = new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'film.txt');
-
 $categorie = new \App\Categorie();
-$categorie->add($cat1);
-$categorie->add($cat2);
-$categorie->add($cat3);
-$categorie->add($cat4);
-$categorie->add($cat5);
-$categorie->add($cat6);
-$categorie->add($cat7);
-$categorie->add($cat8);
-$categorie->add($cat9);
-$categorie->add($cat10);
-$categorie->add($cat11);
-$categorie->add($cat12);
-$categorie->add($cat13);
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'aggettivi.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'animali.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'citta.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'locuzioni.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'mestieri.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'nomi.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'piante.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'sostantivi.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'verbi.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'capitali.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'stati.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'cartoni.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'film.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'serietv.txt'));
 
 $pf = new Passphrase($categorie);
 $intestazione = ["Frase", "Lunghezza"];
