@@ -1,6 +1,6 @@
 Aladdin
 AliceNelPaeseDelleMeraviglie
-AlvinRock’N’Roll
+AlvinRockNRoll
 AnnaDaiCapelliRossi
 ApeMaia
 Aristogatti
@@ -34,7 +34,7 @@ GalaxyExpress999
 Georgie
 GigiLaTrottola
 GliSnorky
-He-Man
+HeMan
 HelloSpank!
 Hercules
 HollyEBenji
@@ -60,9 +60,9 @@ Lamù
 LiloStitch
 Lupin
 LàSuiMontiConAnnette
-L’Incantevole Creamy
-L’IsolaDellaPiccolaFlo
-L’UomoTigre
+LIncantevole Creamy
+LIsolaDellaPiccolaFlo
+LUomoTigre
 MagicaMagicaEmi
 MazingaZ
 Memole

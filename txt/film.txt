@@ -57,3 +57,11 @@ TrappolaDiCristallo
 UnTramCheSiChiamaDesiderio
 ViaColVento
 ViaggioAKandahar
+Parasite
+Amarcord
+Django
+Dune
+Fantozzi
+IVitelloni
+IlSorpasso
+Gattopardo
