@@ -20,8 +20,10 @@ $categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'capitali.txt'));
 $categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'stati.txt'));
 $categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'cartoni.txt'));
 $categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'film.txt'));
-$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'serietv.txt'));
 $categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'supereroi.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'piatti.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'personaggi.txt'));
+$categorie->add(new \App\Categoria('txt'.DIRECTORY_SEPARATOR.'motori.txt'));
 
 $pf = new Passphrase($categorie);
 $intestazione = ["Frase", "Lunghezza"];

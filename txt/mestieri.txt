@@ -157,7 +157,6 @@ ortopedico
 oste
 ostetrica
 otorino
-otorinolaringoiatra
 ottico
 paleontologo
 panettiere
